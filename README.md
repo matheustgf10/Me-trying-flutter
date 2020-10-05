@@ -1,6 +1,6 @@
 # Me trying flutter.
 
-A new basic Flutter project to test out some basic features.
+A new Flutter project to test out some basic features.
 
 ## Getting Started
 
